@@ -55,8 +55,10 @@ TensorFlow (tf-keras for DeepFace compatibility)
 <img width="1280" height="822" alt="image" src="https://github.com/user-attachments/assets/7481cb4f-14fc-4d1d-810a-3ddef579b478" />
 <img width="1280" height="841" alt="image" src="https://github.com/user-attachments/assets/b4abf246-38e3-4d00-a7a9-600cedad4e0b" />
 <img width="1280" height="817" alt="image" src="https://github.com/user-attachments/assets/33e7e68e-d362-4e76-ac72-dfa7d6ee9ca2" />
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1280" height="799" alt="image" src="https://github.com/user-attachments/assets/aedd6f9e-88a8-4591-bd02-a13a655c1072" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/87ac6b05-c181-4a91-b33f-082fd55bf9af" />
+
+
 
 
 
